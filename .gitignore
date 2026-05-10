@@ -1,0 +1,13 @@
+# Repos (managed separately)
+api/
+web/
+e2e/
+
+# OS
+.DS_Store
+
+# Auto-generated
+.playwright-mcp/
+
+# Local-only Claude Code settings
+.claude/settings.local.json

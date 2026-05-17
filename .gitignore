@@ -2,6 +2,7 @@
 api/
 web/
 e2e/
+docs/
 
 # OS
 .DS_Store
